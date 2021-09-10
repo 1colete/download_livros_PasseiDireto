@@ -23,21 +23,24 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Siga as seguintes etapas
 
-1.  Faça login no site www.passeidireto.com e selecione o livro desejado.![1imagem](C:\Users\alexa\OneDrive\2 - Pessoal\matar\files\1imagem.png)
+1.  Faça login no site www.passeidireto.com e selecione o livro desejado.
+  ![1imagem](files/1imagem.png)
 
 2. Com isso podemos saber o número de páginas 
 
-3. Clique na imagem com o botão direito e selecione inspecionar elemento. Uma tela como esta deve surgir, o box amarelo indica o link da imagem que aparece na tela.![2imagem](C:\Users\alexa\OneDrive\2 - Pessoal\matar\files\2imagem.png)
+3. Clique na imagem com o botão direito e selecione inspecionar elemento. Uma tela como esta deve surgir, o box amarelo indica o link da imagem que aparece na tela.
+
+  ![2imagem](files/2imagem.png)
 
 4. Execute todas as células do notebook.
 
 5. Insira o link da primeira página:
 
-   ![3imagemLINK](C:\Users\alexa\OneDrive\2 - Pessoal\matar\files\3imagemLINK.png)
+  ![3imagemLINK](files/3imagemLINK.png)
 
 6. Insira o número da páginas que foi visto anteriormente:
 
-![image-20210909214717657](C:\Users\alexa\OneDrive\2 - Pessoal\matar\files\3imagemNPAG.png)
+![image-20210909214717657](files/3imagemNPAG.png)
 
 7. Quando o download de todas as imagens terminar use um serviço que converte JPGs para PDF
 
